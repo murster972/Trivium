@@ -1,0 +1,2 @@
+# Trivium
+Trivium stream cipher
